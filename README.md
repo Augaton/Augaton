@@ -1,6 +1,6 @@
-## 👋 Hey i'm Augaton
+#👋 Hey i'm Augaton
 
-## 🔗 You can find me on..
+# 🔗 You can find me on..
 [Steam](https://steamcommunity.com/id/Exceed-Augaton/)
 
 [![Discord Banner 2](https://discordapp.com/api/guilds/924749913278005268/widget.png?style=banner2)](https://discord.gg/kJFQe95pgh)
