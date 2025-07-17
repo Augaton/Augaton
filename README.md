@@ -1,4 +1,4 @@
-#👋 Hey i'm Augaton
+# 👋 Hey i'm Augaton
 
 # 🔗 You can find me on..
 [Steam](https://steamcommunity.com/id/Exceed-Augaton/)
