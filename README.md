@@ -1,7 +1,7 @@
 # 👋 Hey i'm Augaton
 
 # 🔗 You can find me on..
-![Steam](https://steamcommunity.com/id/Exceed-Augaton/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Exceed-Augaton/)
 
 [![Discord Banner 2](https://discordapp.com/api/guilds/924749913278005268/widget.png?style=banner2)](https://discord.gg/kJFQe95pgh)
 
