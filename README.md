@@ -1,9 +1,5 @@
 # ⚡ Hello, I'm Augaton !
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Augaton&show_icons=true&theme=midnight-purple&rank_icon=github" alt="Stats de Augaton" />
-</p>
-
 ### 🛰️ Connect with me
 <p align="left">
 <a href="https://steamcommunity.com/id/Exceed-Augaton/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
@@ -26,7 +22,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Augaton&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Augaton&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4) 
 
 
 ### 🔝 Top Contributed Repo
