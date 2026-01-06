@@ -1,9 +1,5 @@
 # ⚡ Hello, I'm Augaton !
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Augaton&show_icons=true&theme=midnight-purple&rank_icon=github" alt="Stats de Augaton" />
-</p>
-
 ### 🛰️ Connect with me
 <p align="left">
 <a href="https://steamcommunity.com/id/Exceed-Augaton/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
@@ -36,11 +32,6 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Augaton&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
-</p>
-
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Augaton&theme=midnight-purple&no-frame=false&column=4" />
 </p>
 
 ---
