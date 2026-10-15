@@ -12,7 +12,7 @@
 
 ## 👾 About me
 
-- 🎓 Computer science student at **ESGI**.
+- 🎓 Computer science student.
 - 🎮 I make **Garry's Mod** addons for SCP roleplay servers.
 - 🧪 I write **EXILED** plugins for **SCP: Secret Laboratory**, mostly modern rewrites of community classics.
 - 🕹️ I build small games in **C** and **C++**, FTL-likes above all.
@@ -66,7 +66,7 @@ Shared code lives in [AugatonLib](https://github.com/Augaton/AugatonLib). The pl
 
 | Project | What it does |
 | --- | --- |
-| [Bot-Myges](https://github.com/Augaton/Bot-Myges) | All-in-one Discord bot for MyGES, the ESGI student portal (TypeScript) |
+| [Bot-Myges](https://github.com/Augaton/Bot-Myges) | All-in-one Discord bot for MyGES (TypeScript) |
 | [Driver Updater](https://github.com/Augaton/driver_updater) | Honest Windows driver updater: Windows Update drivers only, restore point first (C#) |
 | [kordis_token_retriever](https://github.com/Augaton/kordis_token_retriever) | Retrieves your Kordis token to explore the MyGES API (Python) |
 
