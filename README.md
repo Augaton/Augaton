@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Augaton ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Garry's+Mod+addons+in+Lua;SCP%3A+Secret+Laboratory+plugins+in+C%23;Games+in+C+and+C%2B%2B;Discord+bots+and+small+tools" alt="Garry's Mod addons in Lua · SCP: Secret Laboratory plugins in C# · Games in C and C++ · Discord bots and small tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Games+in+Godot%2C+C+and+C%2B%2B;SCP%3A+Secret+Laboratory+plugins+in+C%23;Garry's+Mod+addons+in+Lua;Desktop+apps+and+Discord+bots" alt="Games in Godot, C and C++ · SCP: Secret Laboratory plugins in C# · Garry's Mod addons in Lua · Desktop apps and Discord bots" />
 </p>
 
 <p align="center">
@@ -13,17 +13,35 @@
 ## 👾 About me
 
 - 🎓 Computer science student.
+- 🕹️ I build games: **Sandbox Ship**, a real-time space strategy game, and FTL-likes in **C** and **C++**.
+- 🧪 I write a **LabAPI** plugin collection for **SCP: Secret Laboratory**.
 - 🎮 I make **Garry's Mod** addons for SCP roleplay servers.
-- 🧪 I write **EXILED** plugins for **SCP: Secret Laboratory**, mostly modern rewrites of community classics.
-- 🕹️ I build small games in **C** and **C++**, FTL-likes above all.
+- 🛠️ I make small Windows apps, like a soundboard in **Rust**.
 
 ## 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,c,ts,js,py,rust,dotnet,nodejs,discordjs,linux,git,vscode&perline=14" alt="Lua, C#, C++, C, TypeScript, JavaScript, Python, Rust, .NET, Node.js, discord.js, Linux, Git, VS Code" />
+  <img src="https://skillicons.dev/icons?i=cs,lua,cpp,c,rust,ts,js,py,godot,dotnet,nodejs,discordjs,linux,git,vscode&perline=15" alt="C#, Lua, C++, C, Rust, TypeScript, JavaScript, Python, Godot, .NET, Node.js, discord.js, Linux, Git, VS Code" />
 </p>
 
 ## 🚀 Featured projects
+
+### 🕹️ Games
+
+<a href="https://github.com/Augaton/sandbox_ship"><img src="https://raw.githubusercontent.com/Augaton/sandbox_ship/main/docs/images/banner.png" alt="Sandbox Ship, a real-time space strategy game" width="100%" /></a>
+
+| Project | What it does |
+| --- | --- |
+| [Sandbox Ship](https://github.com/Augaton/sandbox_ship)<br/>[![Download Sandbox Ship](https://img.shields.io/github/v/release/Augaton/sandbox_ship?label=download&color=2F81F7)](https://github.com/Augaton/sandbox_ship/releases/latest) | Real-time space strategy in pixel art: galactic campaign, adaptive AI and up to six players online, on Linux and Windows (Godot, C#) |
+| [Augaton (FTL-like)](https://github.com/Augaton/projet_rpg_v2) | FTL-like in C++ and Raylib: four sectors, ship power management, retro CRT look with shaders and bloom |
+| [FTL-ConsoleGame](https://github.com/Augaton/FTL-ConsoleGame) | Space survival game in the terminal, written in C |
+| [Tetris](https://github.com/Augaton/Tetris-C-) | Tetris in C++ with SFML |
+
+### 🧪 SCP: Secret Laboratory · C# / LabAPI
+
+[augatonscpslplugin](https://github.com/Augaton/augatonscpslplugin) gathers 31 plugins and a shared library, built to run together on one server for the French-speaking Zone-Shilari community. It was just ported from EXILED to LabAPI and stays a pre-release until it is validated on a live server.
+
+Highlights: RandomGamemode (25 special game modes with player votes), SCP500s (44 custom pills) and ChaosDirector (a shared chaos level fed by round events).
 
 ### 🎮 Garry's Mod · Lua
 
@@ -38,36 +56,13 @@
 
 The four SCP addons are on the [Steam Workshop](https://steamcommunity.com/id/Exceed-Augaton/myworkshopfiles/?appid=4000).
 
-### 🧪 SCP: Secret Laboratory · C# / EXILED
-
-Shared code lives in [AugatonLib](https://github.com/Augaton/AugatonLib). The plugins built on it:
-
-[SupplyDrop](https://github.com/Augaton/SupplyDrop) ·
-[SCP500s](https://github.com/Augaton/SCP500s) ·
-[SCP1162](https://github.com/Augaton/SCP1162) ·
-[TeamGenocide](https://github.com/Augaton/TeamGenocide) ·
-[ScpProximityChat](https://github.com/Augaton/ScpProximityChat) ·
-[RemoteKeycard](https://github.com/Augaton/RemoteKeycard) ·
-[RealisticSizes](https://github.com/Augaton/RealisticSizes) ·
-[SCPReplacer](https://github.com/Augaton/SCPReplacer) ·
-[Replacer](https://github.com/Augaton/Replacer) ·
-[AutoFFToggle](https://github.com/Augaton/AutoFFToggle) ·
-[BetterCoinflipsRewritten](https://github.com/Augaton/BetterCoinflipsRewritten)
-
-### 🕹️ Games · C / C++
-
-| Project | What it does |
-| --- | --- |
-| [Augaton (FTL-like)](https://github.com/Augaton/projet_rpg_v2) | FTL-like in C++ and Raylib: four sectors, ship power management, retro CRT look with shaders and bloom |
-| [FTL-ConsoleGame](https://github.com/Augaton/FTL-ConsoleGame) | Space survival game in the terminal, written in C |
-| [Tetris](https://github.com/Augaton/Tetris-C-) | Tetris in C++ with SFML |
-
 ### 🛠️ Tools
 
 | Project | What it does |
 | --- | --- |
+| [Bruitage](https://github.com/Augaton/bruitage)<br/>[![Download Bruitage](https://img.shields.io/github/v/release/Augaton/bruitage?label=download&color=2F81F7)](https://github.com/Augaton/bruitage/releases/latest) | Polyphonic soundboard for Windows: several sounds at once, sent into your real mic, triggered by hotkeys even in game (Rust) |
+| [Driver Updater](https://github.com/Augaton/driver_updater) | Honest Windows driver updater: checks each device against Windows Update, the Microsoft Update catalog and, for NVIDIA cards, NVIDIA's site, with a restore point before installing (C#) |
 | [Bot-Myges](https://github.com/Augaton/Bot-Myges) | All-in-one Discord bot for MyGES (TypeScript) |
-| [Driver Updater](https://github.com/Augaton/driver_updater) | Honest Windows driver updater: Windows Update drivers only, restore point first (C#) |
 | [kordis_token_retriever](https://github.com/Augaton/kordis_token_retriever) | Retrieves your Kordis token to explore the MyGES API (Python) |
 
 ## 📊 GitHub stats
